@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "dayjs": "^1.11.13",
+    "pinia": "^2.2.8",
+    "uview-plus": "^3.3.52"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "volta": {
+    "node": "20.18.0"
+  }
+}

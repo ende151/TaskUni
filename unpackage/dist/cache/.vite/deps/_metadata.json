@@ -1,0 +1,21 @@
+{
+  "hash": "929e7a0c",
+  "configHash": "6ec63d49",
+  "lockfileHash": "9fb2ed7d",
+  "browserHash": "3d683fd0",
+  "optimized": {
+    "dayjs/esm/index": {
+      "src": "../../../../../node_modules/dayjs/esm/index.js",
+      "file": "dayjs_esm_index.js",
+      "fileHash": "d8da4324",
+      "needsInterop": false
+    },
+    "uview-plus": {
+      "src": "../../../../../node_modules/uview-plus/index.js",
+      "file": "uview-plus.js",
+      "fileHash": "d42e83ba",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}

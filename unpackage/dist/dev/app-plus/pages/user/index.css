@@ -1,0 +1,28 @@
+
+.user-container {
+  padding: 0.9375rem;
+}
+.avatar {
+  width: 3.75rem;
+  height: 3.75rem;
+  border-radius: 1.875rem;
+}
+.menu-item {
+  padding: 0.625rem;
+  margin-bottom: 0.625rem;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.grid-item {
+  width: 30%;
+  text-align: center;
+}
+.icon {
+  width: 1.25rem;
+  height: 1.25rem;
+  margin: 0 auto;
+}
+
